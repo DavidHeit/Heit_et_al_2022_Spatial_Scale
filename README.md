@@ -4,5 +4,5 @@
 David R. Heit, Joshua J. Millspaugh, Jon T. McRoberts, Kevyn Wiskirchen, Jason Sumners, Jason Isabelle, Barbara Keller, Aaron Hildreth, Robert Montgomery, Remington Moll
 
 **Files**   
-Heit_2022_ECOG_AIC_supplement  -  Scale of effect for individual deer, as well as associated AIC values and weights
-Heit_2022_ECOG_2022_Code - R code used to generate scaled rasters and fit iSSFs and linear models
+Heit_2022_ECOG_AIC_supplement.csv  -  Scale of effect for individual deer, as well as associated AIC values and weights
+Heit_2022_ECOG_2022_Code.R - R code used to generate scaled rasters and fit iSSFs and linear models
